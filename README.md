@@ -4,7 +4,7 @@
 
 ### Features
 - Player Starts with a balance
-- You can win up to 5x your bet
+- You can win up to 10x your bet
 - Sound
 - Colors
 
