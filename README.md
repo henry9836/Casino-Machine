@@ -1,7 +1,11 @@
 # One Bit Bandit
-
+![alt text](https://i.imgur.com/oqMMCtY.png)
 ### Built by Henry Oliver
 
-![alt text](https://i.imgur.com/oqMMCtY.png)
+### Features
+- Player Starts with a balance
+- You can win up to 5x your bet
+- Sound
+- Colors
 
-A simple casino machine I built
+![alt text](https://i.imgur.com/53rIyeZ.gif)
